@@ -10,6 +10,6 @@ This report will demonstrate how implementing a "k-means" algorithm can be used 
 
 #### CONTRIBUTORS:
 Phase 1
-Name 1: Bill Screen
-Name 2: Ha-Lan Nguyen
-Name 3: Tarun Rawat
+- Name 1: Bill Screen
+- Name 2: Ha-Lan Nguyen
+- Name 3: Tarun Rawat
