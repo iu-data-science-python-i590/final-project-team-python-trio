@@ -1,0 +1,26 @@
+GRADING CHECKLIST
+------------------------------
+
+[X] Data cleaning - report Number of NaN, replace ?, impute NaN by the column mean. 5 pts
+	1. Impute missing values
+
+[X] Data Stats 5pts
+	1. Compute data statistics
+
+[X] Plotting Scatterplot and Bar Plot must have titles,y axis and x axis names, non-default colors. 9 histograms (subfigures) do not have to have titles. 5pts
+	1. Plot basic graphs -> Histogram
+	2. Plot basic graphs -> Bar Plot
+
+[X] Import libraries, Proper data import 5pts
+	1. Import Libraries
+	2. Load Data
+
+[X] Github set up with one folder for code and one folder for dataset 5pts
+	1. /final-project-team-python-trio/Phase1/
+	2. /final-project-team-python-trio/data/
+
+[ ] Readme file with contributions 5pts (TODO)
+	1. /final-project-team-python-trio/Phase1/readme.md
+	2. TODO: Add team member contributions
+
+[ ] Summarize by reporting which values might need standardization in the future (too much variation) and any other observations that you may discover as a Data Scientist.
