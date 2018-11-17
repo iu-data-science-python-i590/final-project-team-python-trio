@@ -12,6 +12,6 @@ This report will demonstrate how implementing a "k-means" algorithm can be used 
 
 #### CONTRIBUTORS:
 Phase 1
-- Name 1: Bill Screen
-- Name 2: Ha-Lan Nguyen
-- Name 3: Tarun Rawat
+- Name 1: Bill Screen - created Github repo, prepared Phase 1 codes and analysis, coordinated among team members, submitted Phase 1.
+- Name 2: Ha-Lan Nguyen - prepared data analysis summary, reviewed and contributed ideas.
+- Name 3: Tarun Rawat - prepared Phase 1 codes and analysis, reviewed and contributed ideas.
