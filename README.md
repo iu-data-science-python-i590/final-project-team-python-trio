@@ -9,3 +9,10 @@ Breast cancer is a rising issue among women. A cancer’s stage is a crucial fac
 
 #### OBJECTIVE: 
 This report will demonstrate how implementing a "k-means" algorithm can be used to classify benign and malign cells in two different groups.
+
+### CONTRIBUTORS:
+Bill Screen: prepared github page, drafted Phase 1 codes and analysis, submitted Phase 1, coordinated among team members.
+
+Ha-Lan Nguyen: drafted summary of Phase 1 data analysis, reviewed codes and contributed ideas.
+
+Tarun Rawat: reviewed and contributed to Phase 1 codes, contributed ideas.
